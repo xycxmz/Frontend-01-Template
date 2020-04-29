@@ -85,4 +85,10 @@
 - 以及函数 convertNumberToString
 - 找出 JavaScript 标准里有哪些对象是我们无法实现出来的，都有哪些特性？写一篇文章，放在学习总结里。
 
-
+## 作业
+### 参考文章：https://developer.mozilla.org/zh-CN/docs/Web/JavaScript/Reference/Global_Objects/Function/bind
+### 关键词：Exotic Object（怪异对象）
+- Bound Function Exotic Objects
+- Array Exotic Objects
+- String Exotic Objects
+- Arguments Exotic Objects
