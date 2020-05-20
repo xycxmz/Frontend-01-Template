@@ -277,7 +277,6 @@ function afterAttributeName(item) {
     } else if (item == EOF) {
 
     } else {
-        // ???
         currentToken[currentAttribute.name] = currentAttribute.value;
         currentAttribute = {
             name: "",
