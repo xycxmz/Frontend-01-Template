@@ -51,4 +51,4 @@ while(input) {
 - 生成Computed属性
 - 确定规则覆盖关系
 
-### 详细过程参考：https://github.com/Spicycrayfish/Frontend-01-Template/blob/master/week06/NOTE.md 的笔记
+### 详细的HTML解析和CSS计算过程可以参考：https://github.com/Spicycrayfish/Frontend-01-Template/blob/master/week06/NOTE.md 的笔记
