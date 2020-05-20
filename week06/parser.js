@@ -1,3 +1,6 @@
+## 参考：https://github.com/alvin-xianer/Frontend-01-Template/blob/master/week06/practice0516/parser.js
+## 参考：https://github.com/daybreakcold/Frontend-01-Template/blob/master/week06/domParse.js
+
 let currentToken = null;
 let currentAttribute = null;
 let currentTextNode = null;
